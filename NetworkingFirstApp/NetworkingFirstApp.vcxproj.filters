@@ -24,12 +24,18 @@
     <ClCompile Include="tcpserver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="taskqueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defines.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="tcpserver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="taskqueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
